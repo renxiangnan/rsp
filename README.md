@@ -1,2 +1,1 @@
-# RDF Stream Processing on Spark Streaming and Kafka
-Just for fun.
+A parctice with Spark Stream and Kafka, for RDF Stream Processing.
